@@ -59,47 +59,6 @@
 </table>
 </br>
 
-<h5 align="center">AI/ML/DV</h5>
-
-<table align= "center">
-  <tr>
-     <td align="center" width="140" height="112.43">
-      <a href="https://scikit-learn.org/" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="C" />
-      </a>
-      <br>Scikit Learn
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="https://seaborn.pydata.org/" >
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
-      </a>
-      <br>Seaborn
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="https://www.tensorflow.org">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="Tensor Flow" />
-      </a>
-      <br>Tensor Flow
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="https://pandas.pydata.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      </a>
-      <br>Pandas
-    </td>
-  <td align="center"  width="140" height="112.43">
-      <a href="https://datastudio.google.com">
-        <img src="img/data-studio.svg" width="48" height="48" alt="Data Studio" />
-      </a>
-      <br>Data Studio
-    </td>
-    
-
-  </tr>
-</table>
-</br>
-
-
 <h5 align="center">Database</h5>
 
 
@@ -127,65 +86,6 @@
 </table>
 
 </br>
-
-
-<h5 align="center">Devops</h5>
-
-<table align= "center">
-  <tr>
-     <td align="center" width="190" height="112.43">
-      <a href="https://aws.amazon.com" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center"  width="190" height="112.43">
-      <a href="https://www.gnu.org/software/bash/" >
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" height="48" alt="MySQL"/>
-      </a>
-      <br>Bash/Shell
-    </td>
-    <td align="center"  width="190" height="112.43">
-      <a href="https://cloud.google.com">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" alt="gcp" />
-      </a>
-      <br>GCP
-    </td>
-  
-
-  </tr>
-</table>
-</br>
-
-
-<h5 align="center">Other</h5>
-
-<table align= "center">
-  <tr>
-     <td align="center" width="140" height="112.43">
-      <a href="https://git-scm.com/" >
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="https://www.linux.org/" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="https://pt.wikipedia.org/wiki/Linguagem_ladder">
-        <img src="img/ladder.png" width="48" height="48" alt="Ladder" />
-      </a>
-      <br>Ladder
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="https://www.overleaf.com/">
-        <img src="img/tex.svg" width="48" height="48" alt="Tex" />
-      </a>
-      <br>Tex
-    </td>
 
   </tr>
 </table>
