@@ -5,7 +5,7 @@
 #### Professional in the field of Technical Support Analyst committed to the search for knowledge and experience, throughout my career I have acquired significant experience and solid skills to deal with customer demands and provide efficient solutions. I believe in the importance of building strong relationships with customers and making every effort to ensure their satisfaction.
 
 
-#### Currently, studying a bachelor's degree in information systems at UNIMATER, I have some knowledge of Python, Java, Delhpi and the SQL Developer tool. Within this world, I have several courses such as Hardware, Personnel Department, SQL+PLSQL+Modeling and Oracle Database.
+#### Currently, studying a bachelor's degree in information systems at UNIMATER, I have some knowledge of Python, Java, Delphi and the SQL Developer tool. Within this world, I have several courses such as Hardware, Personnel Department, SQL+PLSQL+Modeling and Oracle Database.
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
