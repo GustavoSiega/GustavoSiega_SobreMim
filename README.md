@@ -31,22 +31,16 @@
 <table align= "center">
   <tr>
      <td align="center" width="140" height="112.43">
-      <a href="https://www.cprogramming.com/" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      <a href="" >
+        <img align="center" alt="Will-J" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
       </a>
-      <br>C
+      <br>Java
     </td>
     <td align="center"  width="140" height="112.43">
-      <a href="https://www.w3schools.com/cpp/" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <a href="" >
+        <img align="center" alt="Will-C" height="40" width="40"src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png">
       </a>
-      <br>C++
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="https://www.php.net">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
+      <br>Delphi
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="https://www.python.org">
@@ -65,16 +59,10 @@
 <table align= "center">
   <tr>
      <td align="center" width="190" height="112.43">
-      <a href="https://www.mongodb.com/" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="Mongo" />
+      <a href="" >
+        <img align="center" alt="Will-C" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
       </a>
-      <br>Mongo
-    </td>
-    <td align="center"  width="190" height="112.43">
-      <a href="https://www.mysql.com/" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL"/>
-      </a>
-      <br>MySQL
+      <br>SQL Developer
     </td>
     <td align="center"  width="190" height="112.43">
       <a href="https://www.postgresql.org">
@@ -85,7 +73,34 @@
   </tr>
 </table>
 
-</br>
+<h5 align="center">Other</h5>
+
+<table align= "center">
+  <tr>
+     <td align="center" width="140" height="112.43">
+      <a href="https://git-scm.com/" >
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="" >
+        <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" width="48" height="48" alt="Oracle" />
+      </a>
+      <br>Oracle
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="">
+        <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="48" height="48" alt="VSCode" />
+      </a>
+      <br>VSCode
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="">
+        <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
 
   </tr>
 </table>
